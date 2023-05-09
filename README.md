@@ -5,7 +5,7 @@
 ## Contents
 
 - [AI Attacks](#ai-attacks)
-- [AI Detectors](#ai-detectors)]
+- [AI Detectors](#ai-detectors)
 - [AI Anti Detectors](#ai-anti-detectors)
 - [AI Security Community](#ai-security-community)
 
