@@ -16,6 +16,7 @@
  - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/pdf/2301.07597.pdf)
  - [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/pdf/1908.07125.pdf)
  - [Evaluating The Susceptibility Of Pre-trained Language Models Via Handcrafted Adversarial Examples](https://arxiv.org/pdf/2209.02128.pdf)
+ - [Prompt Injection: Parameterization of Fixed Inputs](https://arxiv.org/pdf/2206.11349.pdf)
 
 ### Blog Post
 
