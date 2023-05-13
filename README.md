@@ -11,6 +11,8 @@
 
 ## AI Attacks
 
+ - [Chat GPT "DAN" (and other "Jailbreaks")](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
+
 ### Papers
 
  - [How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection](https://arxiv.org/pdf/2301.07597.pdf)
@@ -36,6 +38,7 @@
 
 - [AI-Detection-Bypassers](https://github.com/gonzoknows/AI-Detection-Bypassers)
 - [GPTZzzs](https://github.com/Declipsonator/GPTZzzs)
+- [Lakera Gandalf](https://gandalf.lakera.ai/)
 
 ## AI Security Community
 
